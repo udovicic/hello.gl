@@ -6,7 +6,7 @@ My OpenGL playground. This project is intended to be a reference and experimenta
 
 * mkdir build
 * cd build
-* cmake ..
+* cmake .. (for Debug build use cmake -DCMAKE_BUILD_TYPE=Debug ..)
 * make
 
 Output will be stored inside *bin* folder
